@@ -19,7 +19,7 @@
   <img align="center" alt="OMPedr0-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="87cf5912-8eb7-4439-9d35-2934cbc9e4ee" data-share-badge-host="https://www.credly.com"></div>
+
   ##
 
 <!--
