@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompedr0" alt="ompedr0" /></a> </p>- Todos os meus projetos estão disponíveis em [https://ompedr0.vercel.app/](https://ompedr0.vercel.app/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompedr0" alt="ompedr0" /></a> </p>- Todos os meus projetos estão disponíveis em [https://ompedr0.vercel.app/]
 
 - Pergunte-me 💬 👨 💻 sobre **React, TypeScript, JavaScript, Html5, CSS**
 
