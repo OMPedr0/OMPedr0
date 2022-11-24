@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , eu sou Pedro Gil</h1><h3 align="center">Um desenvolvedor Full-Stack apaixonado de Portygak</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=ompedr0&label=Profile%20views&color=0e75b6&style=flat" alt="ompedr0" /> </p>
+<h1 align="center">Oi 👋 , eu sou Pedro Gil</h1><h3 align="center">Um desenvolvedor Full-Stack de Portugal</h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=ompedr0&label=Profile%20views&color=0e75b6&style=flat" alt="ompedr0" /> </p>
 
 
 
