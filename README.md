@@ -19,10 +19,7 @@
   <img align="center" alt="OMPedr0-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  
-  
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ompedr0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/ompedr0?trk=profile-badge">Pedro Gil</a></div>
-              
+
 
   ##
 
