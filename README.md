@@ -1,39 +1,39 @@
-# Bem-vindo ao Meu Perfil GitHub! 👋
+# Bem-vindo ao meu perfil do GitHub 👋
 
-## Sobre mim
+Olá, sou [Pedro Gil](https://github.com/OMPedr0)! 👋 Sou apaixonado por tecnologia e adoro trabalhar com uma variedade de tecnologias, incluindo TypeScript, JavaScript, React, Firebase, Figma, Canva, HTML, CSS, Tailwind CSS e muito mais.
 
-Olá! Eu sou [Pedro Gil](https://github.com/OMPedr0), apaixonado por tecnologia e entusiasta do código aberto. O meu objetivo é aprender, partilhar conhecimento e contribuir para projetos que tornem o mundo um lugar melhor. Desde o meu primeiro "Olá, Mundo!" até desafios complexos, estou sempre entusiasmado em explorar novas possibilidades e aprimorar as minhas habilidades.
+## Sobre Mim
 
-## Tecnologias e Ferramentas
+- 👨‍💻 Desenvolvedor Full Stack
+- 🌐 Site Pessoal: [Seu Site Pessoal](https://seusitepessoal.com)
+- 📫 Entre em contato comigo: [Seu Email](mailto:seuemail@gmail.com)
 
-- Linguagens de Programação: Python 🐍, JavaScript/TypeScript 🌐
-- Frameworks: Django 🎸, React ⚛️, Next.js 💻
-- Banco de Dados: PostgreSQL 🐘, MongoDB 🍃, SQL 📊
-- Ferramentas DevOps: Docker 🐳, Jenkins 🚀
-- Cloud: AWS ☁️, GCP 🌩️
-- Outras: Git 🌱, VS Code 🖥️
-- Frontend: HTML/CSS, JavaScript, Tailwind CSS 🎨
-- Backend: Node.js, Firebase 🔥
+
+
+## Tecnologias
+  <img height="20em" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img height="20em" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+  <img height="20em" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
+  <img height="20em" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img height="20em" src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+
 
 ## Estatísticas do GitHub
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMPedr0&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api?username=OMPedr0&hide=prs,issues,contribs&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dark&include_all_commits=true" alt="Total de Commits" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=OMPedr0&show_icons=true)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OMPedr0&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OMPedr0)
 
+## Minhas Redes Sociais
 
+- [LinkedIn](https://www.linkedin.com/in/ompedr0/)
+- [Twitter](https://twitter.com/OMPedr0_)
+- [Instagram](https://www.instagram.com/ompedr0_/)
 
-## Onde me encontrar
+Sinta-se à vontade para explorar meus repositórios e entre em contato comigo se quiser colaborar ou apenas bater um papo! 😄
 
-- 💼 LinkedIn: [Pedro Gil](https://www.linkedin.com/in/ompedr0/)
-- 🐦 Twitter: [@OMPedr0](https://twitter.com/seu-nome)
-- 🌐 Meu Site: [https://www.OMPedr0.com](https://ompedr0.vercel.app/)
-
-## Gostaria de Contribuir?
-
-Se quiseres contribuir para algum dos meus projetos ou tiveres alguma sugestão, fica à vontade para abrir uma **issue** ou enviar um **pull request**. Adoro receber feedback e estou sempre aberto a novas colaborações!
-
-Deixa uma ⭐️ se achaste algo interessante no meu perfil! 😄
+Feito com ❤️ por [OMPedr0](https://github.com/OMPedr0)
