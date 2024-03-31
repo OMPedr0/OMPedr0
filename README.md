@@ -4,9 +4,13 @@
 
 ## 👨‍💻 Sobre Mim
 
-Olá, sou **Pedro Gil**, um desenvolvedor full-stack apaixonado e autodidata que tem estudado e aprendido a programar desde os 15 anos. Atualmente, estou cursando um Diploma de Ensino Médio em Programação na Escola Profissional do Fundão, onde espero formar-me em junho de 2024.
+Olá, sou o **Pedro Gil**, um desenvolvedor full-stack apaixonado e autodidata, com uma trajetória de aprendizagem em programação desde os meus 15 anos. Atualmente, estou a frequentar um Diploma de Ensino Secundário em Programação, numa escola profissional.
 
-Tenho experiência em várias áreas e tecnologias, como HTML5, CSS, Tailwind, React, JavaScript, TypeScript, Firebase, MySQL e MongoDB. Também estou certificado em AWS Educate Getting Started com Storage, Compute e Networking. Recentemente, atuei como CTO na Full Dev, uma empresa de desenvolvimento de software, onde liderava a visão e estratégia técnica, gerenciava a equipe de desenvolvimento e entregava produtos e soluções de alta qualidade para os clientes. Sou fluente em português e tenho um nível intermediário de inglês. Estou aberto para trabalhar remotamente ou pessoalmente e ansioso para aprender mais e melhorar minhas habilidades.
+Tenho experiência em várias áreas e tecnologias, tais como HTML5, CSS, Tailwind, React, JavaScript, TypeScript, Firebase, MySQL e MongoDB. Também possuo certificação em AWS Educate, com ênfase em Storage, Compute e Networking.
+
+Recentemente, desempenhei o papel de CTO na Full Dev, uma empresa de desenvolvimento de software, onde liderei a visão e estratégia técnica, gerindo equipas e entregando soluções de alta qualidade para os nossos clientes.
+
+Sou fluente em português e possuo competências intermediárias em inglês. Estou aberto a oportunidades de trabalho, tanto remotas como presenciais, e estou entusiasmado por continuar a aprender e a aprimorar as minhas habilidades.
 
 ## 🛠️ Tecnologias
 
