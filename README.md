@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub 👋
 
-<img src="https://media.licdn.com/dms/image/D4D03AQELWMF7qB2fkQ/profile-displayphoto-shrink_800_800/0/1678441593546?e=1717027200&v=beta&t=wyFzHtzuI_-PjL9mXz9P5Zde3rNzJllyziSd2xxumV0" width="150" height="150" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/59456575?v=4" width="150" height="150" style="border-radius: 50%;">
 
 ## 👨‍💻 Sobre Mim
 
