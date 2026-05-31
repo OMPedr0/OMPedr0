@@ -61,19 +61,16 @@ Sou o **Pedro Gil**, desenvolvedor full-stack autodidata, com paixão pela tecno
 
 ---
 
-## � Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OMPedr0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OMPedr0&theme=tokyonight&hide_border=true" alt="Streak" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OMPedr0&theme=tokyonight" alt="Estatísticas do GitHub" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OMPedr0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OMPedr0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OMPedr0&theme=tokyonight" alt="Linguagens mais usadas" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OMPedr0&theme=tokyonight&utcOffset=0" alt="Horário produtivo" height="180"/>
 </p>
 
 ---
