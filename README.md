@@ -17,7 +17,7 @@ Sou o **Pedro Gil**, desenvolvedor full-stack autodidata, com paixão pela tecno
 
 - 🚀 Anteriormente **CTO na Full Dev**, onde liderei a visão técnica, geri equipas e entreguei soluções de software escaláveis.
 - 🎓 Certificado em **AWS Educate** — *Storage*, *Compute* e *Networking*.
-- 🌍 Português nativo, Inglês intermédio.
+- 🌍 Português nativo, Inglês intermediário.
 - 💼 Disponível para oportunidades **remotas** ou **presenciais**.
 - ✉️ Contacta-me através do [LinkedIn](https://www.linkedin.com/in/ompedr0/) para colaborações ou propostas profissionais.
 
